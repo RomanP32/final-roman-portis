@@ -1,9 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Welcome"
-theme = "bootstrap-bp-hugo-theme"
+theme = "ananke"
 
 [menu]
+
   [[menu.main]]
     name = "Home"
     url = "/"
