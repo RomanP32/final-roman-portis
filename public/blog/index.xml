@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Roman Portis – Personal Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Roman Portis – Personal Site</description>
+    <title>Blog on Roman Portis – Personal Site</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on Roman Portis – Personal Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balancing College, Sports, and Side Hustles</title>
       <link>http://localhost:1313/blog/filler1/</link>
@@ -42,27 +42,6 @@
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/filler5/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec facilisis interdum velit, nec convallis justo tempor eget. Nulla in urna sed libero vulputate condimentum.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Enhancement: Custom Theming and Navbar Design</title>
-      <link>http://localhost:1313/about/articles/enhancement/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/articles/enhancement/</guid>
-      <description>&lt;p&gt;In this article I explain the enhancement I built into my site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-changed&#34;&gt;What I Changed&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Customized the color scheme and typography using the theme’s SCSS/CSS.&lt;/li&gt;&#xA;&lt;li&gt;Built a consistent navigation bar that appears on every page.&lt;/li&gt;&#xA;&lt;li&gt;Added hover effects and spacing so the site feels more polished.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-i-implemented-it&#34;&gt;How I Implemented It&lt;/h2&gt;&#xA;&lt;p&gt;Describe which files you edited, such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;layouts/partials/header.html&lt;/code&gt; for the navbar structure&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;assets/css/custom.css&lt;/code&gt; or the theme’s SCSS file for colors, font sizes, and spacing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Include small code snippets and explain them in plain language:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Essay #1: &lt;Put Topic Here&gt;</title>
-      <link>http://localhost:1313/about/articles/article1/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/articles/article1/</guid>
-      <description>&lt;p&gt;Write your first substantive essay here (not reused from the warm-up).&lt;br&gt;&#xA;Aim for something like 600–1000 words on a topic you care about&#xA;(e.g. side hustles, college athletics, personal finance, AI in small towns, etc.).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Essay #2: &lt;Put Topic Here&gt;</title>
-      <link>http://localhost:1313/about/articles/article2/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/articles/article2/</guid>
-      <description>&lt;p&gt;Your second original essay goes here.&lt;/p&gt;&#xA;&lt;p&gt;You could pick a different angle than article 1 – maybe something related&#xA;to programming, a reflection on balancing school &amp;amp; sports, or a short tutorial.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

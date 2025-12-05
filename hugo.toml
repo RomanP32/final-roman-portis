@@ -1,21 +1,7 @@
-baseURL = "/"
+baseURL = "https://final-roman-portis.netlify.app/"
 languageCode = "en-us"
-title = "Welcome"
+title = "Roman Portis – Personal Site"
 theme = "ananke"
 
-[menu]
-
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-
-  [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
-    weight = 3
+[pagination]
+  pagerSize = 10

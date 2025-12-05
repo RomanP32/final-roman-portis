@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Welcome</title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on Welcome</description>
+    <title>Tags on Roman Portis – Personal Site</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Roman Portis – Personal Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>College</title>
+      <link>http://localhost:1313/tags/college/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/college/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finance</title>
+      <link>http://localhost:1313/tags/finance/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/finance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>http://localhost:1313/tags/fitness/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>http://localhost:1313/tags/goals/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/goals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Substantive</title>
+      <link>http://localhost:1313/tags/substantive/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/substantive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webdev</title>
+      <link>http://localhost:1313/tags/webdev/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/webdev/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

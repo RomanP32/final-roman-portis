@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webdev on Roman Portis – Personal Site</title>
+    <link>http://localhost:1313/tags/webdev/</link>
+    <description>Recent content in Webdev on Roman Portis – Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/webdev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I Learned Building My Hugo Website</title>
+      <link>http://localhost:1313/blog/filler2/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler2/</guid>
+      <description>&lt;p&gt;Building my first full website using Hugo taught me several important lessons about static site generators and web development in general. At first, Hugo felt confusing because everything depends on folder structure, layouts, and configuration. If one file is in the wrong place, the entire site breaks. That forced me to slow down and understand how Hugo actually works.&lt;/p&gt;&#xA;&lt;p&gt;The biggest lesson was that &lt;strong&gt;every section needs its own &lt;code&gt;_index.md&lt;/code&gt; file&lt;/strong&gt; for Hugo to recognize it. Before I understood this, I ran into a lot of “page not found” errors. Once I learned how Hugo treats content folders, it became much easier to control what appears on the site.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

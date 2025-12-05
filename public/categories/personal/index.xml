@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Roman Portis – Personal Site</title>
+    <link>http://localhost:1313/categories/personal/</link>
+    <description>Recent content in Personal on Roman Portis – Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balancing College, Sports, and Side Hustles</title>
+      <link>http://localhost:1313/blog/filler1/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler1/</guid>
+      <description>&lt;p&gt;Balancing college academics, athletics, and side hustles can feel like trying to manage three full-time jobs at once. As a student-athlete, my schedule is already packed with classes, practices, lifts, travel, and games. On top of that, I run multiple side businesses and work on developing my skills in finance, cybersecurity, and web development. Even though it’s a lot, I’ve learned that the right mindset and systems make it possible.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

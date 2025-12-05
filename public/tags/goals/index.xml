@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goals on Roman Portis – Personal Site</title>
+    <link>http://localhost:1313/tags/goals/</link>
+    <description>Recent content in Goals on Roman Portis – Personal Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Things I Want to Learn in 2026</title>
+      <link>http://localhost:1313/blog/filler4/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/filler4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et dui ac velit gravida imperdiet. Ut in dignissim turpis. Suspendisse euismod sit amet nisi faucibus tempor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
